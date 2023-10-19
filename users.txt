@@ -1,2 +1,2 @@
-abdelrahman 180
-hany 555
+abdelrahman 180 1
+hany 555 0
